@@ -1,0 +1,32 @@
+Here are some of the questions i would ask the following individuals.
+Question 1
+
+Product owner:
+	
+	What is the business value of this feature?
+	When will this feature go live?
+	
+Ux Designer:
+	
+	Where will the user find this feature?
+	What will the process flow screens look like?
+
+Technical Architec:
+
+	How will this feature work end to end (The flow)?
+	is there any specific scenarios you would like me to test?
+	How will this feature intergrate with other features?
+	What are the failure scenarios for this feature?
+
+Question 2
+
+	In order to delight the customer with these new features i would want it to be simple and easy to follow. 
+	It should be quick from end to end.
+	It should be easy to locate this feature.
+
+Question 3
+
+	I would automate adding users based on available licenses
+	I would automate adding users without available licesnes (Negative scenario)
+	I would automate editing a user's details
+	I would automate removing a user
